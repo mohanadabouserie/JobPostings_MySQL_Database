@@ -1,0 +1,11 @@
+username,email_address,gpa,birthdate,gender
+john_doe,johndoe@example.com,3.50,1990-05-15,M
+jane_smith,janesmith@example.com,3.80,1992-07-20,F
+robert_jackson,robertjackson@example.com,3.60,1988-12-10,M
+sarah_wilson,sarahwilson@example.com,3.40,1995-03-25,F
+alice_miller,alicemiller@example.com,3.75,1991-09-08,F
+michael_johnson,michaeljohnson@example.com,3.45,1989-11-02,M
+emily_davis,emilydavis@example.com,3.65,1993-04-14,F
+david_anderson,davidanderson@example.com,3.55,1994-06-27,M
+olivia_wilson,oliviawilson@example.com,3.90,1990-12-18,F
+william_smith,williamsmith@example.com,3.70,1987-10-30,M
